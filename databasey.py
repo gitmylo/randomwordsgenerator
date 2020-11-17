@@ -253,8 +253,6 @@ combinedlist = [
   'poopoo',
   'sad',
   'free',
-  '',
-  '26758637895348767725',
   'minecart',
   'creeper',
   'zombie',
@@ -275,8 +273,6 @@ combinedlist = [
   'obama',
   'joebiden',
   'hitler',
-  'markrutte',
   'trump',
-  'morganfreeman',
-  ''
+  'morganfreeman'
 ]
